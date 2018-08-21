@@ -12,4 +12,5 @@ Pick and place robots are widely used in industry specifically in assembly plant
 ![figure2](https://github.com/yajirobe/Robotic-Arm-Control-System/blob/master/images/figure2.PNG)
 
 # Demonstration
+Obtained the fastest time of 0.885 seconds for the competition
 ![video1](https://thumbs.gfycat.com/AjarUncommonDugong-size_restricted.gif)
